@@ -1,0 +1,9 @@
+.about {
+	display:inline-block;
+	margin: 40px 0px 0px 0px;
+	background-image: url("../Images/john-salzarulo-342868-unsplash.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 100vw;
+}

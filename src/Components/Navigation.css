@@ -1,0 +1,31 @@
+.navbar-default {
+    background-image:none !important;
+    background-color:#333 !important;
+    border:none !important;
+    border-radius:0px !important;
+}
+.navbar-brand {
+    color:white !important;
+    font-weight: bold;
+    font-size: 16px !important;
+}
+.navbar-brand:hover{
+    background-color:#111 !important;
+}
+.icon-bar {
+    background-color:white !important;
+}
+.navbar-toggle:hover, .navbar-toggle:focus {
+    background-color:#111 !important;
+}
+.nav a, .nav a:hover, .nav a:focus {
+    text-decoration: none;
+    color:white;
+    font-size:16px;
+}
+.nav li:hover{
+    background-color: #111;
+}
+.navbar-collapse ul {
+    text-align: right;
+}

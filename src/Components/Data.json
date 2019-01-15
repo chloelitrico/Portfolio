@@ -1,0 +1,40 @@
+{
+	"projects" : [{
+			"id" : "candc",
+			"title" : "Chalets & Caviar",
+			"url" : "http://dev-candc.pantheonsite.io/",
+			"languages" : "WordPress  |  CSS",
+			"image" : "mike-kotsch-204198-unsplash.jpg"
+		}, {
+			"id" : "boff",
+			"title" : "Brooklyn Outdoor Film Festival",
+			"url" : "https://chloelitrico.github.io/BrooklynOutdoorFilmFestival/",
+			"languages" : "HTML  |  CSS  |  BootStrap",
+			"image" : "jeremy-yap-160713-unsplash.jpg"
+		}
+	],
+
+	"education" : {
+		"oc" : {
+			"name" : "OpenClassrooms",
+			"degree" : "Full Stack Developer",
+			"location" : "Largest European online education platform",
+			"startDate" : "2018",
+			"endDate" : "Present"
+		},
+		"mcgill" : {
+			"name" : "McGill University",
+			"degree" : "Bachelor of Science: Physiology major, Biotechnology minor",
+			"location" : "Montreal, Canada",
+			"startDate" : "2014",
+			"endDate" : "2018"
+		},
+		"isg" : {
+			"name" : "International School of Geneva",
+			"degree" : "International Baccalaureate: Bilingual French and English",
+			"location" : "Geneva, Switzerland",
+			"startDate" : "2012",
+			"endDate" : "2014"
+		}
+	}
+}
